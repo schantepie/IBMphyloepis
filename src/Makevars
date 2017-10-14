@@ -1,0 +1,3 @@
+CFLAGS +=              -O3 -Wall -pipe -pedantic -std=gnu99
+CPPFLAGS +=            -std=c++11 -m64 -O2 -Wall -pipe -Wno-unused -pedantic
+PKG_CPPFLAGS +=          -std=c++11 -m64 -O2 -Wall -pipe -Wno-unused -pedantic
